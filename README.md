@@ -98,4 +98,4 @@ You'll need to read the GitHub API documentation to see how each function works.
 
 [GitHub OAuth]: https://developer.github.com/v3/oauth_authorizations/
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/javascript-fetch-lab' title='JavaScript Fetch Lab'>Javascript Fetch Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG JavaScript `fetch()` Lab</p>
