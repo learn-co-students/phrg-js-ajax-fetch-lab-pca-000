@@ -1,7 +1,7 @@
 const url = 'https:/api.github.com'
 
 function getIssues() {
-  const token = '84356a3819629b03979a11b09b0358de197c974f';
+  const token = '';
   const issueUrl = "https://api.github.com/repos/labrams10/javascript-fetch-lab/issues"
   fetch(issueUrl, {
     headers: {
