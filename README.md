@@ -92,6 +92,9 @@ You'll need to read the GitHub API documentation to see how each function works.
 
 ![That's so fetch](http://missmonet.net/wp-content/uploads/2014/04/so-fetch-gretchen-xmas-gif.gif)
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-ajax-fetch-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-ajax-fetch-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 - [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [GitHub API](https://developer.github.com/v3/)
